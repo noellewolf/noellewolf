@@ -2,8 +2,8 @@
 
 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 
-I thrive on crafting intuitive and scalable web applications using **PHP, Java, TypeScript, Vue, and more**.
-From designing sleek front-end experiences to building reliable back-end systems, I enjoy tackling new challenges and optimizing code.  
+I have experience building full-stack web applications using **PHP, Java, TypeScript, Vue, and more**.
+From designing intuitive front-end experiences to building reliable back-end systems, I enjoy tackling new challenges and optimizing code.  
 
 💡 **What drives me?**  
 - Learning new languages, frameworks, and workflows.
