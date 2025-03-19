@@ -1,6 +1,6 @@
 ### Hey there! 👋 I'm Noelle  
 
-🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+🚀 **Full-Stack Developer**  
 
 I have experience building full-stack web applications using **PHP, Java, TypeScript, Vue, and more**.
 From designing intuitive front-end experiences to building reliable back-end systems, I enjoy tackling new challenges and optimizing code.  
