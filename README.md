@@ -15,12 +15,6 @@ From designing intuitive front-end experiences to building reliable back-end sys
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noellewolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://help.figma.com/hc/en-us/articles/14794362149015-Create-pixel-art-in-Figma-Design"  />
-
-###
-
 <div align="left" style="display:flex;flex-direction:row">
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
