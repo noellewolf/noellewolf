@@ -14,10 +14,8 @@ From designing intuitive front-end experiences to building reliable back-end sys
   <img src="https://github-readme-stats.vercel.app/api?username=noellewolf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noellewolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<div align="left" style="display:flex;flex-direction:row">
   
-<div style="display: flex; gap: 4px; align-items: center;">
+<div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="12" height="12" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" width="12" height="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="12" height="12" />
@@ -27,11 +25,6 @@ From designing intuitive front-end experiences to building reliable back-end sys
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="12" height="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="12" height="12" />
 </div>
-
-
-</div>
-
-###
 
 <div align="left">
   <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelle-wolf">
