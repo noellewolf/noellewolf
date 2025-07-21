@@ -16,14 +16,14 @@ From designing intuitive front-end experiences to building reliable back-end sys
 </div>
   
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" width="20" height="20" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="20" height="20" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="20" height="20" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="transform: scale(1.5); transform-origin: left center;" />
 </div>
 
 <div align="left">
