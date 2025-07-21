@@ -32,10 +32,4 @@ From designing intuitive front-end experiences to building reliable back-end sys
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 🌱 *I'm always eager to learn and connect—feel free to reach out!* 🚀  
