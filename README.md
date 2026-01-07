@@ -6,7 +6,7 @@ From designing intuitive front-end experiences to building reliable back-end sys
 
 ## What do I care about? 
 - Learning new languages, frameworks, and workflows.
-- Collaborating with developers and the tech community as a whole.
+- Collaborating with the greater tech community.
 - Teaching others. Tech is for everyone!
 
 ## My Coding Experience
@@ -22,10 +22,10 @@ From designing intuitive front-end experiences to building reliable back-end sys
 </div>
 
 ## Connect with me
+I'm always eager to learn and connect. Feel free to reach out!
 <div align="left">
   <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelle-wolf">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-*I'm always eager to learn and connect. Feel free to reach out!* 
